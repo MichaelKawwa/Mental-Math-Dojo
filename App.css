@@ -1,0 +1,133 @@
+.App {
+  text-align: center;
+  background-color: white;
+  padding: 10px;
+}
+
+.App-header {
+  background-color: #06d6a0;
+  height: 75px;
+  padding-bottom: 40px;
+  padding-top: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: white;
+  border-radius: 10pt;
+}
+
+.images {
+  margin-right: 5pc;
+  margin-left: 5pc;
+}
+
+.options {
+  background-color: white;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 50px;
+
+}
+
+.black-text {
+  color: #2D4059
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu ul {
+  background-color: white;
+}
+
+.menu li {
+  font-family: sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  background-color: #06d6a0;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+ 
+.menu li:hover {
+  font-family: sans-serif;
+  font-size: 1.2em;
+  line-height: 40px;
+  height: 40px;
+  background-color:#08c995;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #222831;
+}
+
+
+.anwser-section {
+  margin: 8px 0;
+  padding: 12px 20px;
+}
+
+#myInput {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border-radius: 15px;
+  border: 2px solid #3CBC8D;
+  box-sizing: border-box;
+}
+
+#myInput:focus {
+  background-color: rgb(228, 238, 247);
+
+}
+
+.question-section {
+  padding: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 3pc;
+  border-radius: 10px;
+}
+
+Body {
+  background-color: #F0F5F9;
+}
+
+.buttons {
+  padding: 10px;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 20%;
+  border: none;
+  border-radius: 10px;
+  display: block;
+  background-color: #06d6a0;
+  color: azure;
+  font-size: 1.5pc;
+  font-weight: bold;
+}
+
+.buttons:hover {
+  padding: 10px;
+  margin-top: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 20%;
+  border: none;
+  border-radius: 10px;
+  display: block;
+  background-color: #06d6a0;
+  color: azure;
+  font-size: 1.5pc;
+  font-weight: bold;
+}
+
+.blue {
+  background-color: #3CBC8D;
+  align-items: center;
+}
